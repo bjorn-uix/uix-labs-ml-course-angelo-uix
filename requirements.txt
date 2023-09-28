@@ -1,0 +1,14 @@
+Flask==2.2.3
+Flask-Cors==3.0.10
+Flask-SQLAlchemy==3.0.3
+fuzzywuzzy==0.18.0
+gunicorn
+numpy
+pandas
+psycopg2-binary
+python-dateutil
+python-dotenv
+pytz
+PyYAML
+requests
+scikit-learn
