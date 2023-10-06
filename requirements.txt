@@ -12,3 +12,4 @@ pytz
 PyYAML
 requests
 scikit-learn
+Werkzeug==2.2.2
