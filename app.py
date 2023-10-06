@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    data = "Welcome to Instalearn ML Tutorial students kfkdfj!"
+    data = "Welcome to Instalearn ML Tutorial students"
     return {"message": data}
 
 
